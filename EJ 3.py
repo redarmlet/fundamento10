@@ -16,8 +16,8 @@ Ingrese su elección:
 | Por su compra mayor a diezmil pesos, recibe un descuento del 25%,           |
 | Por una compra mayor a veintemil, recibe un descuento del 40%,              |
 | Y finalmente por su compra mayor a las otras dos, las entradas salen gratis |
-| (el profe no dijo cuanto valen las entradas asi que digamos que 5000)       |
-| (el profe hizo los rangos como el pene asi que mayor a 30k es gratis)       |
+|                                                                             |
+|                                                                             |
 |-----------------------------------------------------------------------------|
 
 """
